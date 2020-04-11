@@ -226,7 +226,9 @@ pages:
         - 'C#': 'notifications/quick-start/webhook/c-sharp.md'
         - 'Ruby': 'notifications/quick-start/webhook/ruby.md'
     - 'Developer Manual':
-      - 'Webhooks': 'notifications/manual/webhooks.md'
+      - 'Webhooks':
+        - 'Overview': 'notifications/manual/webhooks/overview.md'
+        - 'Configuring TLS/SSL': 'notifications/manual/webhooks/configuring-tls-ssl.md'
       - 'Mobile Push Notifications': 'notifications/manual/pubnub.md'
     - 'Sample Applications':
       - 'Create SMS Push Notification': 'https://ringcentral-tutorials.github.io/sms-api-nodejs-quickstart/'
